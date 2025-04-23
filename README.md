@@ -1,0 +1,2 @@
+# pymondantic
+Pymongo + pydantic
